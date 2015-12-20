@@ -75,6 +75,8 @@ Bootstrap
 Client-server certificates
 ==========================
 
+[На основе инфы отсюда](https://gist.github.com/mtigas/952344)
+
 Certificates
 ------------
 
