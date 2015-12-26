@@ -8,3 +8,4 @@
 /shoes ShoesR GET POST
 /shoes/#ShoeId ShoeR GET DELETE
 /shoes/delete/#ShoeId DeleteShoeR POST
+/cash/#CashId CashR GET POST DELETE

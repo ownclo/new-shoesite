@@ -25,6 +25,7 @@ library
                      Handler.Home
                      Handler.Shoes
                      Handler.Shoe
+                     Handler.Cash
 
     if flag(dev) || flag(library-only)
         cpp-options:   -DDEVELOPMENT
